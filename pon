@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Плохие гаджеты</title>
+</head>
+<body>
+    <iframe src="https://www.meteoblue.com/en/weather/widget/three?
+    geoloc=detect&nocurrent=1&noforecast=0&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&layout=image"
+    frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" 
+    style="width: 460px; height: 490px"></iframe><div><!-- 
+    DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/index?utm_source=three_widget&utm_medium=linkus&utm_content=three&utm_campaign=Weather%2BWidget" 
+    target="_blank" rel="noopener">meteoblue</a></div>
+
+
+    
+    <h1>Информация о технологических зависимостях! </h1>
+    <p>Технологические зависимости!</p>
+    <h3>Это такой вид зависимости, когда человек не может обойтись без использования определенных
+        технологий и устройств.
+        Эта зависимость может привести к тому, что человек потеряет способность функционировать без
+        этих технологий совсем... Что может сказаться на уровне его жизни.</h3>
+    
+    <h1>Технологические зависимости!</h1>
+             <ul>
+                   <li>Социальные сети и мессенджеры</li>
+                   <li>Смартфоны и планшеты</li>
+                   <li>Игры и онлайн-развлечения</li>
+                   <li>Интернет-шопинг и онлайн-покупки</li>
+                   <li>Онлайн-видео и потоковые сервисы</li>
+                   <li>Умные устройства для дома</li>
+                   <li>Технологии виртуальной и дополненной реальности</li>
+                
+            
+            
+            </ul>
+     <img src="https://i.gifer.com/Aq.gif" alt="Image 1">
+</body>
+</html>
